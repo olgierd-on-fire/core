@@ -1,4 +1,4 @@
-# Unless something changes this project is dead
+# Currently inactive, would like to start again, please let me know if you're interested.
 
 
 
