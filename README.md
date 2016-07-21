@@ -1,5 +1,7 @@
 # Currently inactive, would like to start again, please let me know if you're interested.
 
+[![Join the chat at https://gitter.im/symposiumapp/core](https://badges.gitter.im/symposiumapp/core.svg)](https://gitter.im/symposiumapp/core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 
 
